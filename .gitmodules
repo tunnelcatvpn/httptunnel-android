@@ -1,0 +1,3 @@
+[submodule "jni/httptunnel"]
+	path = jni/httptunnel
+	url = https://github.com/tunnelcatvpn/httptunnel
